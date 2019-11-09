@@ -1,4 +1,5 @@
-// 완주하지 못한 선수
+//Programers 완주하지 못한 선수 문항
+//해시 관련 문제
 #include <string>
 #include <vector>
 #include <iostream>
@@ -56,16 +57,4 @@ string solution_1(vector<string> participant, vector<string> completion) {
 
 	return answer;
 }
-
-int main() {
-	vector<string> participant = {"leo", "kiki", "eden"};
-	vector<string> completion = {"eden", "kiki" };//{ "stanko", "ana", "mislav", "mislav"};
-
-	
-	cout << solution_2(participant, completion) << endl;
-	
-
-	return 0;
-}
-
 
