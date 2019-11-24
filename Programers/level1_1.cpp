@@ -1,4 +1,4 @@
-//Programers 완주하지 못한 선수 문항
+//Programers 완주하지 못한 선수 문항.
 //해시 관련 문제
 #include <string>
 #include <vector>
