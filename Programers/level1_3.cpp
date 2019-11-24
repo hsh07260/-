@@ -1,4 +1,4 @@
-// Programers K번째수 문항
+// Programers K번째수 문항.
 // 정렬(sorting)관련 문제
 // sorting과 vector의 assign을 통한 복사로 해결
 #include <iostream>
