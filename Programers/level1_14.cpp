@@ -1,4 +1,4 @@
-// Programers 같은 숫자는 싫어 문항
+// Programers 같은 숫자는 싫어 문항.
 // solution_erase == 정확성의 테스트 케이스는 통과했지만, 효율성에서 걸림
 // solution_empty_vector == 빈 vector에 비교값은 그냥 넣어주고, 같은 수로 카운팅되는 것들은 건너뛴다.
 // vector 상에서 erase 시키고, 다시 vector를 만들어주는 행위는 overhead가 크다.
