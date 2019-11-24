@@ -1,4 +1,4 @@
-// Programers 수박수박수? 문항
+// Programers 수박수박수? 문항.
 // 기초 string 문제
 
 #include <string>
