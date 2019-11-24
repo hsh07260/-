@@ -1,4 +1,4 @@
-// Programers 가운데 글자 가져오기 문항
+// Programers 가운데 글자 가져오기 문항.
 // 간단한 문자 추출
 #include <string>
 #include <vector>
