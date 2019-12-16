@@ -1,4 +1,4 @@
-// Programers 행렬의 덧셈 문항
+// Programmers 행렬의 덧셈 문항
 // vector 에 대한 개념을 필요로 함
 #include <string>
 #include <vector>
