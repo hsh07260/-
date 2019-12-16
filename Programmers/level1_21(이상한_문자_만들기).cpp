@@ -1,4 +1,4 @@
-// Programers 이상한 문자 만들기
+// Programmers 이상한 문자 만들기
 // string 클래스의 find()와 substr() 함수를 통해 단어를 쪼개서 문자열 처리
 // string의 find()와 substr()의 오버로딩된 내용 확인 필요
 
