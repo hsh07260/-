@@ -1,4 +1,4 @@
-// Programers 정수 내림차순으로 배치하기 문항
+// Programmers 정수 내림차순으로 배치하기 문항
 
 #include <vector>
 #include <algorithm>
