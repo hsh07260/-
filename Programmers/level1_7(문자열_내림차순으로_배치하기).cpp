@@ -1,4 +1,4 @@
-// Programers 문자열 내림차순으로 배치하기 문항.
+// Programmers 문자열 내림차순으로 배치하기 문항.
 // sort() 와 사용자 기준 함수를 작성하여 간단하게 해결 가능
 
 #include <string>
