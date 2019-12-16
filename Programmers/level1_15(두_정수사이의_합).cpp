@@ -1,4 +1,4 @@
-//Programers 두 정수사이의 합 문항
+//Programmers 두 정수사이의 합 문항
 
 #include <string>
 #include <vector>
