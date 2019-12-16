@@ -1,4 +1,4 @@
-//Programers 문자열 내 p와 y의 개수 문항
+//Programmers 문자열 내 p와 y의 개수 문항
 
 #include <string>
 #include <iostream>
