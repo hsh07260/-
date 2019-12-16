@@ -1,4 +1,4 @@
-//Programers 문자열 다루기 기본 문항
+//Programmers 문자열 다루기 기본 문항
 
 #include <string>
 #include <vector>
