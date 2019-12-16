@@ -1,4 +1,4 @@
-// Programers 정수 제곱근 판별 문항
+// Programmers 정수 제곱근 판별 문항
 // cmath 사용
 #include <string>
 #include <vector>
