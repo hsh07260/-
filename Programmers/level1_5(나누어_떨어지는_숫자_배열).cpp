@@ -1,4 +1,4 @@
-// Programers 나누어 떨어지는 숫자 배열 문항.
+// Programmers 나누어 떨어지는 숫자 배열 문항.
 // 간단한 modular연산과 sorting으로 해결 
 
 #include <string>
