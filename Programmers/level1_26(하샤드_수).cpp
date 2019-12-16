@@ -1,4 +1,4 @@
-// Programers 하샤드 수 문항
+// Programmers 하샤드 수 문항
 
 #include <string>
 #include <vector>
