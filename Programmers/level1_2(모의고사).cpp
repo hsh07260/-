@@ -1,4 +1,4 @@
-//Programers 모의고사 문항.
+//Programmers 모의고사 문항.
 //완전탐색 관련 문제
 
 #include <string>
