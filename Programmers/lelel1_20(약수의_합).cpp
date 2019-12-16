@@ -1,4 +1,4 @@
-// Programers 약수의 합 문항
+// Programmers 약수의 합 문항
 
 #include <string>
 #include <vector>
