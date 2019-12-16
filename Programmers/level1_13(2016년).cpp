@@ -1,4 +1,4 @@
-// Programers 2016년 문항.
+// Programmers 2016년 문항.
 // 요일이 7로 반복된다는 것으로 쉽게 접근 가능
 
 #include <string>
