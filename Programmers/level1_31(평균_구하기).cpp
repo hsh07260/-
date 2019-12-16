@@ -1,4 +1,4 @@
-// Programers 평균 구하기 문항
+// Programmers 평균 구하기 문항
 
 #include <string>
 #include <vector>
