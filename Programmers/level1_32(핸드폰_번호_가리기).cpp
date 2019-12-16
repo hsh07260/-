@@ -1,4 +1,4 @@
-// Programers 핸드폰 번호 가리기 문항
+// Programmers 핸드폰 번호 가리기 문항
 
 #include <string>
 #include <vector>
