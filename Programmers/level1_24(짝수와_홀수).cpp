@@ -1,4 +1,4 @@
-// Programers 짝수와 홀수 문항
+// Programmers 짝수와 홀수 문항
 
 #include <string>
 #include <vector>
